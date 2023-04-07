@@ -1,8 +1,9 @@
 import './App.css';
+import Hero from './components/Hero/Hero';
 function App() {
   return (
     <div className="App">
-          <span style={{color: 'white'}}>Koshika Dulanjana</span>
+          <Hero />
     </div>
   );
 }
