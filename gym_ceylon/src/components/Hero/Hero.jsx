@@ -6,7 +6,7 @@ import hero_image_back from "../../assets/hero_image_back.png";
 import Heart from "../../assets/heart.png";
 import Calories from "../../assets/calories.png";
 
-const Hero = () => {
+const Hero = () => { 
   return (
     <div className='hero'>
         <div className='left-h'>
